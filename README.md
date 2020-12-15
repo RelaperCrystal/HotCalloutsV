@@ -1,10 +1,12 @@
 # Hot Call-outs for GTA V
 
-This is a branch from Hot Call-outs that upgrades Hot Call-outs from GTA IV LCPDFR to GTA V LSPDFR.
+This is a branch from Hot Call-outs that upgrades Hot Call-outs from GTA IV LCPDFR to GTA V LSPDFR. The code is moved from alternative to my main account.
 
 ## Callouts
 
-This project aimed to recreate all of the call-outs in original IV version. The IV version is updated - but only bug fixes and only small callouts will be added to IV version, and after this project completed recreation and successfully added 10 callouts based on completed callouts, the IV version will only receive bug fixes, and then, dropped.
+~This project aimed to recreate all of the call-outs in original IV version. The IV version is updated - but only bug fixes and only small callouts will be added to IV version, and after this project completed recreation and successfully added 10 callouts based on completed callouts, the IV version will only receive bug fixes, and then, dropped~.
+
+IV version are no longer maintained and dropped.
 
 ### Currently Playable Callouts
 
